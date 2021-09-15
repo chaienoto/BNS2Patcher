@@ -14,18 +14,7 @@ echo "      |  __/ | | | (_| | | \__ \ | | | | |_) | (_| | || (__| | | |        
 echo "       \___|_| |_|\__, |_|_|___/_| |_| | .__/ \__,_|\__\___|_| |_|           "
 echo "                   __/ |               | |                                   "
 echo "                  |___/                |_|                                   "
-:: make folder
-::echo Creating resource folder
-::mkdir bns2_english_mod
-::cd bns2_english_mod
-::echo "Folder Created"
 echo "-----------------------------------------------------------------------------"
-::download jq
-::echo "Downloading JQ from  https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win64.exe "
-::powershell -Command "Invoke-WebRequest https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win64.exe -Outfile jq.exe"
-::echo "Download JQ succeeded"
-::ech  ----------------------------------------------------------------------------"
-::get bns2 install location
 echo "Get bns2 install location" 
 for /f "delims=" %%a in ('powershell Get-ItemPropertyValue -Path "HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MKR_B2_PURPLE" -Name InstallLocation') do set "pak=%%a\B2\Content\Paks\"
 cd %pak%
