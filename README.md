@@ -1,4 +1,4 @@
-﻿# bns2_english_installer
+﻿# bns2_english_patcher
  
  English patch made by Holastor
  
