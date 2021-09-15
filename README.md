@@ -6,3 +6,4 @@
  
  script by me
  
+ [Download here](https://github.com/chaienoto/bns2_english_installer/releases/tag/v0.1-beta)
