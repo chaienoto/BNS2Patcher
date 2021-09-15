@@ -6,4 +6,14 @@
  
  script by me
  
- [Download here](https://github.com/chaienoto/bns2_english_installer/releases/tag/v0.1-beta)
+ Install (ONLY PC)
+ 
+ [Tải file](https://github.com/chaienoto/bns2_english_installer/releases/tag/v0.1-beta)
+ (bns2_eng_patcher.bat)
+ 
+ sau đó chuột phải Run as administrator nếu ko sẽ bị lỗi
+
+**Lưu ý: vui lòng scan lại file game trước khi dùng**
+
+ 
+ 
