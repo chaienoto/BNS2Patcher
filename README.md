@@ -6,6 +6,9 @@
  
  script by me
  
+ Đây là file giúp tự động hóa quá trình mod engpatch cho mọi người chỉ với 1 click 
+
+ 
  Install (ONLY PC)
  
  [Tải file](https://github.com/chaienoto/bns2_english_installer/releases/tag/v0.1-beta)
