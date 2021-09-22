@@ -15,6 +15,11 @@ echo "       \___|_| |_|\__, |_|_|___/_| |_| | .__/ \__,_|\__\___|_| |_|        
 echo "                   __/ |               | |                                   "
 echo "                  |___/                |_|                                   "
 echo "-----------------------------------------------------------------------------"
+for /f "delims=" %%b in ('powershell $env:LOCALAPPDATA') do set "basePath=%%b"
+set lang=%basePath%\B2\Saved\Option
+set cache=%basePath%\BNS2Patcher
+if not exist "%cache%" mkdir %cache%
+cd %cache%
 echo "Get bns2 install location" 
 for /f "delims=" %%a in ('powershell Get-ItemPropertyValue -Path "HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MKR_B2_PURPLE" -Name InstallLocation') do set "pak=%%a\B2\Content\Paks\"
 cd %pak%
