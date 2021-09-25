@@ -25,8 +25,10 @@
   
    ![step 2](https://user-images.githubusercontent.com/50574624/134759379-b75c291a-248a-451b-9b0e-9efcb2580dce.png)
 
-  * Sau khi tải xong script sẽ tự động cài mod và chuyển sang tiếng anh Luôn
-  * Sau khi hoàn thành các bạn ấn ENTER để vào menu chính
+  * Sau khi tải xong script sẽ tự động cài mod và chuyển sang tiếng anh luôn
+  * Ở lần sử dụng đầu tiên bạn ấn ENTER sau khi mod hoàn tất để vào menu chính 
+  
+  **những lần sau thì chỉ cần mở lên lại là vào đc luôn**
   * Ở đây các bạn có thể chọn chức năng muốn thực bằng cách ấn số sau đó ENTER
   
    ![step 3](https://user-images.githubusercontent.com/50574624/134759461-3e411e77-a306-40db-bfc2-e1c8aace5d3e.png)
@@ -34,6 +36,10 @@
    * Ở mục số 3 mỗi lần có update file mod các bạn chỉ cần mở lên và chọn nếu có update nó sẽ thông báo và bạn có thể lựa chọn update hay ko 
 
   ![updateAvail](https://user-images.githubusercontent.com/50574624/134759785-6c6591cb-40ab-4022-862e-54a9fa8cbaed.png)
+  
+  **ĐỂ GÕ MOD KO XÀI NỮA CÁC BẠN VUI LÒNG CHUYỂN VỀ TIẾNG HÀN TRƯỚC SAU ĐÓ DÙNG CHỨC NĂNG SCAN FILE CỦA PURPLE ĐỂ XÓA FILE MOD ĐI**
+  
+  **đừng hỏi sao lại ko có chức năng này thì cơ bản là tới khi publish mới nhớ ra nên lười làm, mình sẽ cập nhật sau**
   
   ## Download
   [Lastest script here]()
