@@ -45,12 +45,12 @@
   [Lastest script here](https://github.com/chaienoto/BNS2Patcher/releases/tag/v1.0.0)
    
   ## AntiVirus-Alert
-  Don't worry if your Antivirus alert when you used my script. Don't have any backdoor or something like that.
+  Don't worry if your Antivirus alert when you used my script. Don't have any backdoor, keylogger or something like that (i dont have enough skill to do that thing :) ).
 
-  You can turn off them for a while, then enable again after patching
+  You can turn off Windown defender for a while, then enable it again after patching
 
   ## Special-Thanks
-  Thank you for great work Holaster and your approve
+  Thank you for great work Holaster and your approval
   
   ![holas approve](https://user-images.githubusercontent.com/50574624/134758380-3be63251-5af4-4228-a199-a10f093cf73b.PNG)
 
