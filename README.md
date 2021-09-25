@@ -8,7 +8,7 @@
    <a href="#How-To-Use">How To Use</a> •
    <a href="#AntiVirus-Alert">Antivirrus Alert</a> •
    <a href="#Credit">Credit</a> •
-   <a href="#Special-Thanks">Special Thanks</a> •
+   <a href="#Special-Thanks">Special Thank</a> •
    <a href="#Download">Tải về</a> •
    <a href="#License">License</a> •
    <a href="#My-Facebook">My Facebook</a> •
