@@ -45,7 +45,7 @@
   [Lastest script here](https://github.com/chaienoto/BNS2Patcher/releases/tag/v1.0.0)
    
   ## AntiVirus-Alert
-  Don't worry if your Antivirrus alert when you used my script. Don't have any backdoor or something like that.
+  Don't worry if your Antivirus alert when you used my script. Don't have any backdoor or something like that.
 
   You can turn off them for a while, then enable again after patching
 
