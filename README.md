@@ -1,6 +1,8 @@
 <h1 align="center">
   <br>
-  Script batch for BNS2 Unofficial Localization (For [Holastor mod version](https://github.com/Holastor/Blade-and-Soul-2-Localization))
+  Script batch for BNS2 Unofficial Localization
+  
+  <a href="https://github.com/Holastor/Blade-and-Soul-2-Localizatio">(Holaster Mod Version)</a>
   <br>
 </h1>
    <a href="#How-To-Use">How To Use</a> •
