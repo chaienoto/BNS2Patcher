@@ -42,7 +42,7 @@
   **đừng hỏi sao lại ko có chức năng này thì cơ bản là tới khi publish mới nhớ ra nên lười làm, mình sẽ cập nhật sau**
   
   ## Download
-  [Lastest script here]()
+  [Lastest script here](https://github.com/chaienoto/BNS2Patcher/releases/tag/v1.0.0)
    
   ## AntiVirus-Alert
   Don't worry if your Antivirrus alert when you used my script. Don't have any backdoor or something like that.
