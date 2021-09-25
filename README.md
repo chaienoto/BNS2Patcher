@@ -2,7 +2,7 @@
   <br>
   Script batch for BNS2 Unofficial Localization
   
-  <a href="https://github.com/Holastor/Blade-and-Soul-2-Localizatio">(Holaster's Mod Version)</a>
+  <a href="https://github.com/Holastor/Blade-and-Soul-2-Localization">(Holaster's Mod Version)</a>
   <br>
 </h1>
    <a href="#How-To-Use">How To Use</a> •
