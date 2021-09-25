@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Script batch for BNS2 Unofficial Localization (Holastor ver)
+  Script batch for BNS2 Unofficial Localization (For [Holastor mod version](https://github.com/Holastor/Blade-and-Soul-2-Localization))
   <br>
 </h1>
    <a href="#How-To-Use">How To Use</a> •
@@ -43,6 +43,7 @@
 
   ## Special-Thanks
   Thank you for great work Holaster and your approve
+  
   ![holas approve](https://user-images.githubusercontent.com/50574624/134758380-3be63251-5af4-4228-a199-a10f093cf73b.PNG)
 
   ## Credit
