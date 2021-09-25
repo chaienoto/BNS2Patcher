@@ -23,7 +23,7 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------
-mode con:cols=80 lines=50
+mode con:cols=80 lines=40
 for /f "delims=" %%b in ('powershell $env:LOCALAPPDATA') do set "basePath=%%b"
 for /f "delims=" %%a in ('powershell Get-ItemPropertyValue -Path "HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MKR_B2_PURPLE" -Name InstallLocation') do set "pakPath=%%a\B2\Content\Paks\"
 set lang=%basePath%\B2\Saved\Option
@@ -74,6 +74,7 @@ goto:eof
 ::---------------------------------------------------------------------------------
 :menu
 call:printLogo
+call:getCurrentVersion 
 echo Ban mod EngLish hien tai : %currentVersion%         
 set M=0
 ECHO  1 - Chuyen sang tieng anh
@@ -91,9 +92,8 @@ exit
 :checkUpdate
 for /f "delims=" %%e in (
     'powershell -Command "&{[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $j = Invoke-RestMethod %patchInfoUrl%; $j.versionInfo;}"'
-    ) do set "lastedVersion=%%e"
-call:getCurrentVersion 
-if "%lastedVersion%" == "%currentVersion%" (
+    ) do set "lastestVersion=%%e"
+if "%lastestVersion%" == "%currentVersion%" (
     echo Phien ban hien tai la moi nhat
 ) else (
     call:getApproveToUpdate
@@ -101,13 +101,14 @@ if "%lastedVersion%" == "%currentVersion%" (
 echo.&pause&call:menu
 ::---------------------------------------------------------------------------------
 :getApproveToUpdate
+set N=0
 echo  Phien ban hien tai : %currentVersion%
-echo  Phien ban moi nhat : %lastedVersion%
+echo  Phien ban moi nhat : %lastestVersion%
 echo  Ban co muon cap nhat khong?
 SET /P N=  An y (hoac Y) sau do ENTER de dong y: 
 IF %N%==y call:goUptodate
 IF %N%==Y call:goUptodate
-goto:eof
+call:menu
 ::---------------------------------------------------------------------------------
 :goUptodate
 echo ------------------------------------------------------------------------------
