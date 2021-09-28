@@ -16,6 +16,7 @@
   
   ## How-To-Use (Vietnamese)
   **Lưu ý: vui lòng scan lại file game trước khi dùng**
+  
 
   * Các bạn mở file lên và chọn Yes để Run as administator
   
@@ -36,6 +37,10 @@
    * Ở mục số 3 mỗi lần có update file mod các bạn chỉ cần mở lên và chọn nếu có update nó sẽ thông báo và bạn có thể lựa chọn update hay ko 
 
   ![updateAvail](https://user-images.githubusercontent.com/50574624/134759785-6c6591cb-40ab-4022-862e-54a9fa8cbaed.png)
+  
+  **Nếu như chạy chương trình thất bại hay kiểm tra xem đường dẫn có folder nào chưa "Khoảng trắng" hay ko nếu có hãy xóa đi và thử lại nhé**
+  ![242910985_543404856756433_6829194833818981187_n](https://user-images.githubusercontent.com/50574624/135023391-04fe92b0-1bf9-4027-9b01-fda94078a3b2.png)
+
   
   **ĐỂ GÕ MOD KO XÀI NỮA CÁC BẠN VUI LÒNG CHUYỂN VỀ TIẾNG HÀN TRƯỚC SAU ĐÓ DÙNG CHỨC NĂNG SCAN FILE CỦA PURPLE ĐỂ XÓA FILE MOD ĐI**
   
